@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yaren Güner</h1>
-<h3 align="center">A computer engineer student from Türkiye</h3>
+<h3 align="center">A computer engineering student from Türkiye</h3>
 
 - 🔭 I’m currently working on **unity**
 
